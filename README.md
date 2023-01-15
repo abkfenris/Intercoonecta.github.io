@@ -1,2 +1,2 @@
-# intercoonecta.github.io
-Sitio web para iniciativa Intercoonecta OceanHackWeek en español, 2022-23
+# ohw-espanol
+Ciencias de datos marinos en español. Asociado a OceanHackWeek
