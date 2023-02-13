@@ -4,7 +4,7 @@ channels:
   - default
 dependencies:
   - python=3.9
-# Installing from conda package led to docutils error during jb build
+  - pip
   - jupyter-book
   - ipykernel
   - ghp-import
@@ -12,10 +12,7 @@ dependencies:
   # - geopandas
   # - xarray
   - matplotlib
-# - seaborn
-# - folium
+  # - seaborn
+  # - folium
   # - cartopy
-  - pip
-  # - pip:
-  #   - jupyter-book
 

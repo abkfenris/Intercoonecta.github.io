@@ -1,4 +1,4 @@
-# Jupyter y Python en Español
+# Jupyter y Python
 
 Algunos recursos en español. Tambien abarca Anaconda y entornos virtuales
 
