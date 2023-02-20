@@ -1,6 +1,6 @@
 # Proyectos en el Hackatón
 
-A continuación se incluyen ejemplos concretos de proyectos tanto de eventos de OceanHackWeek ("OHW") anteriores como otras ideas para proyectos. Puedes ver más ejemplos de proyectos de hackatones ("hackweeks", semanas de hackeo) anteriores del OceanHackWeek [aquí](https://oceanhackweek.org/about/pasthackweeks.html).
+A continuación se incluyen ejemplos concretos de proyectos tanto de eventos de OceanHackWeek ("OHW") anteriores como otras ideas para proyectos. Puedes ver más ejemplos de proyectos de hackatones ("hackweeks", semanas de hackeo) anteriores del OceanHackWeek [aquí](https://oceanhackweek.org/about/pasthackweeks.html) o sugerir uno nuevo [aqui](Nuevo_proyecto.md).
 
 # Oceanografía
 - Lectura y procesado de datos oceanográficos online:
