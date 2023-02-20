@@ -3,11 +3,11 @@
 
 ## LUNES 27 de febrero de 2023
 
-Hora|	Charla|	Presentador/a| 
-08:00-08:45|	Bienvenida|	AECID/Marian| 
-10‘	Entrada a jupyterhub en Python	
-08:45-09:30	Visualización en Python	David
-09:30-10:00	Datos online*	Laura
+|Hora|	Charla|	Presentador/a| 
+|08:00-08:45|	Bienvenida|	AECID/Marian| 
+|10‘|	Entrada a jupyterhub en Python	|
+|08:45-09:30	|Visualización en Python	David
+|09:30-10:00|	Datos online|	Laura| 
 5‘	Entrada a jupyterhub en R	
 10:00-10:45	Visualización en R	Héctor
 10:45-11:15	Proyectos y grupos	Emilio
