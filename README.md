@@ -3,8 +3,8 @@
 
 ## LUNES 27 de febrero de 2023
 
-Hora|	Charla|	Presentador/a|
-08:00-08:45|	Bienvenida|	AECID/Marian|
+Hora|	Charla|	Presentador/a| 
+08:00-08:45|	Bienvenida|	AECID/Marian| 
 10‘	Entrada a jupyterhub en Python	
 08:45-09:30	Visualización en Python	David
 09:30-10:00	Datos online*	Laura
@@ -20,7 +20,7 @@ Trabajo en grupo Proyectos A
 Trabajo en grupo Proyectos B
 
 
-MARTES 28 de febrero de 2023
+## MARTES 28 de febrero de 2023
 
 Hora	Charla	Presentador/a
 08:00-08:15	Bienvenida	Marian
@@ -37,7 +37,7 @@ Trabajo en grupo Proyectos A
 15:00-17:00
 Trabajo en grupo Proyectos B
 
-MIÉRCOLES 1 de marzo de 2023
+## MIÉRCOLES 1 de marzo de 2023
 
 Hora	Charla	Presentador/a
 08:00-08:15	Bienvenida	Marian
@@ -55,7 +55,7 @@ Trabajo en grupo Proyectos A
 Trabajo en grupo Proyectos B
 
 
-JUEVES 2 de marzo de 2023
+## JUEVES 2 de marzo de 2023
 
 Hora	Charla	Presentador/a
 08:15-08:30	Bienvenida	Marian
@@ -70,7 +70,7 @@ Trabajo en grupo Proyectos A
 Trabajo en grupo Proyectos B
 
 
-VIERNES 3 de marzo de 2023
+## VIERNES 3 de marzo de 2023
 
 Hora	Charla	Presentador/a
 08:15-08:30	Bienvenida	Marian
