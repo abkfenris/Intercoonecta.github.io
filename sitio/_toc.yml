@@ -24,7 +24,7 @@ parts:
     #     title: Python
 - caption: Proyectos
   chapters:
-  - file: proyectos.md
+  - file: sitios/proyectos.md
 - caption: Recursos
   chapters:
   - file: jupyter_y_python
