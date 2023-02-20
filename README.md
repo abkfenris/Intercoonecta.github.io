@@ -24,7 +24,9 @@ Trabajo en grupo Proyectos B
 
 ## MARTES 28 de febrero de 2023
 
+
 |Hora|	Charla|	Presentador/a|
+| ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
 |09:45-10:30|	Datos espaciales en R|	Denisse (vídeo)|
 |08:15-09:00|	Echogram library en R| 	Héctor|
@@ -42,6 +44,7 @@ Trabajo en grupo Proyectos B
 ## MIÉRCOLES 1 de marzo de 2023
 
 |Hora|	Charla|	Presentador/a|
+| ------------- |-------- | ------------- |
 |08:00-08:15|	Bienvenida|	Marian|
 |08:15-09:00|	Datos temporales en R|	Denisse (vídeo)|
 |09:00-09:45|	Datos temporales en Python|	David|
@@ -60,6 +63,7 @@ Trabajo en grupo Proyectos B
 ## JUEVES 2 de marzo de 2023
 
 |Hora|	Charla|	Presentador/a|
+| ------------- |-------- | ------------- |
 |08:15-08:30|	Bienvenida|	Marian|
 |08:30-10:00|	Dudas|	todos|
 |10:00-11:00|	Trabajo en grupo Proyectos A y B|	todos|
@@ -75,6 +79,7 @@ Trabajo en grupo Proyectos B
 ## VIERNES 3 de marzo de 2023
 
 |Hora|	Charla|	Presentador/a|
+| ------------- |-------- | ------------- |
 |08:15-08:30|	Bienvenida|	Marian|
 |08:30-11:00|	Presentaciones de los grupos|	todos|
 |11:00-11:15|	Despedida|	todos|
