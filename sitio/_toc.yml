@@ -22,6 +22,9 @@ parts:
     #     - file: ic/aulainv/R/IntroduccionaR.md
     #   - file: ic/aulainv/python/Python.md
     #     title: Python
+- caption: Tutoriales
+  chapters:
+  - file: tutoriales
 - caption: Proyectos
   chapters:
   - file: proyectos
