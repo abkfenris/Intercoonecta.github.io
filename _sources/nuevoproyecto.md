@@ -2,9 +2,8 @@
 
 # Sugerencia de nuevo proyecto
 
-Si te interesa participar en un proyecto no incluido entre las propuestas puedes crear tu propia sugerencia usando esta plantilla.
+Si te interesa participar en un proyecto no incluido entre las propuestas puedes crear tu propia sugerencia usando esta plantilla. Envíala a la coordinadora del Hackaton.
 
-Incluye un breve resumen en el the README.md de la carpeta del proyecto utilizando la plantia. Below is a template for the project summary.
 
 ### Título del proyecto
 
