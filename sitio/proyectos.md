@@ -17,3 +17,6 @@ A continuación se incluyen ejemplos concretos de proyectos tanto de eventos de 
 - Desarrollo de funcionalidades extras para el paquete [`echopype`](https://github.com/oceanhackweek/ohw18_echopype) en Python (de OHW18)
 - Desarrollo de funcionalidades extras para el paquete [`echogram`](https://cran.r-project.org/web/packages/echogram/index.html) en R
 - [Procesamiento de datos acústicos](https://github.com/oceanhackweek/ohw21-proj-bioacoustics) (de OHW21)
+
+
+
