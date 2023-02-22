@@ -12,6 +12,7 @@ parts:
   #maxdepth: 2  # The displayed Table of Contents will only have two levels
   - file: hackaton-que-es
   - file: aulainvertida
+  - file: organizadores
     # sections:
     # - file: ic/aulainv/tutoriales
     #   title: Tutoriales de Introducción
