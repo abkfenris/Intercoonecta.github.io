@@ -1,44 +1,40 @@
-
-
 # Sugerencia de nuevo proyecto
 
 Si te interesa participar en un proyecto no incluido entre las propuestas puedes crear tu propia sugerencia usando esta plantilla. Envíala a la coordinadora del Hackaton.
 
 
-### Título del proyecto
+## Título del proyecto
 
 Breve título
 
-### Colaboradores
+## Colaboradores
 
 Lista de participantes si la hubiera.
 
-### Tema principal
+## Tema principal
  
 ¿Cual es el objetivo principal del proyecto? Céntrate inicialmente en la metodología, seguido del ejemplo concreto a continuación.
 
 
-### Ejemplo práctico
+## Ejemplo práctico
 
 Detalla aquí un caso concreto con los datos a usar y cómo acceder a ellos.
 
-### Tareas específicas
+## Tareas específicas
 
 Detalla la lista de tareas específicas a realizar.
 
-### Métodos previos
+## Métodos previos
 
 ¿Cómo se ha enfocado este problema en el pasado? 
 
-### Métodos/Herramientas propuestas
+## Métodos/Herramientas propuestas
 
 Utilizando lo aprendido en los tutoriales, ¿cómo enfocarías este problema?
 
-### Referencias
+## Referencias
 
 Opcional: publicaciones o informes relacionados.
-
-
 
 ## Tamaño de los ficheros
 Estas son las recomendaciones relativas al acceso a datos de gran tamaño:
