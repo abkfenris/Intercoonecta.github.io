@@ -49,7 +49,7 @@ jobs:
     - name: Create deployment artifact
       uses: actions/upload-pages-artifact@v1
       with:
-        path: gh-pages
+        path: sitio/_build/html
 
   deploy:
     environment:
