@@ -55,7 +55,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: unbuntu-latest
+    runs-on: ubuntu-latest
     needs: build-book
     if: github.ref == 'refs/heads/main' && github.repository == 'Intercoonecta/Intercoonecta.github.io'
     steps:
