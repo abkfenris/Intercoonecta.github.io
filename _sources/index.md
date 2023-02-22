@@ -9,8 +9,10 @@ Este hackatón forma parte de la iniciativa del [OceanHackWeek](https://oceanhac
 - Investigadores, técnicos y estudiantes de América Latina y el Caribe
 
 ## Fechas
+
+- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2022 (más dos horas de tutoría online).
 - Hackaton: 27 de febrero a 3 de marzo de 2023
-- Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre de 2023 (más dos horas de tutoría online).
+
 
 
 ## Requisitos
@@ -18,8 +20,10 @@ Este hackatón forma parte de la iniciativa del [OceanHackWeek](https://oceanhac
 Para participar en este hackaton es necesario poder desarrollar código en R o Python, y manejarse en el uso de Jupyter y github. Existe la posibilidad de adquirir estos conocimientos siguiendo el material de estudio individual disponible en el [aula invertida](aulainvertida). 
 
 ## ¿Cómo participar?
-- Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
+
 - Aula Invertida: esta actividad concluyó el 9 de diciembre, 2022. Para mayor información sobre esta actividad y para acceso a los tutoriales y demás materiales, consulta [esta página](aulainvertida).
+- Hackatón: El período de postulación cerró el 6 de febrero, 2023. El anuncio anterior se encuentra [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
+
 
 
 ## Certificado

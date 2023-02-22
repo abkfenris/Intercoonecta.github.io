@@ -1,22 +1,42 @@
-# Proyectos en el Hackatón
+# Proyectos 2022
 
-A continuación se incluyen ejemplos concretos de proyectos tanto de eventos de OceanHackWeek ("OHW") anteriores como otras ideas para proyectos. Puedes ver más ejemplos de proyectos de hackatones ("hackweeks", semanas de hackeo) anteriores del OceanHackWeek [aquí](https://oceanhackweek.org/about/pasthackweeks.html) o sugerir uno nuevo [aquí](nuevoproyecto.md).
-
-## Oceanografía
-- Lectura y procesamiento de datos oceanográficos en línea:
-    - [COPERNICUS](https://help.marine.copernicus.eu/en/articles/4854800-how-to-manipulate-copernicus-marine-data-using-python)
-    - [OOI](https://github.com/oceanhackweek/ohw18_omlet) (de OHW18)
-- [Cálculo de corrientes](https://github.com/oceanhackweek/ohw21-proj-deep-currents/blob/main/notebooks/data_analysis.ipynb) (de OHW21)
-
-## Datos pesqueros
-- Implementación de modelos pesqueros en R o Python: [Paquetes en R](https://sfg-ucsb.github.io/fishery-manageR/wrapping-up.html#r-packages-for-fishery-analysis)
-- Lectura y procesamiento de datos pesqueros en línea ([openfisheries](https://github.com/ropensci/rfisheries))
-- Lista de paquetes relacionados en github [aqui](https://github.com/topics/fisheries)
-
-## Acústica pesquera
-- Desarrollo de funcionalidades extras para el paquete [`echopype`](https://github.com/oceanhackweek/ohw18_echopype) en Python (de OHW18)
-- Desarrollo de funcionalidades extras para el paquete [`echogram`](https://cran.r-project.org/web/packages/echogram/index.html) en R
-- [Procesamiento de datos acústicos](https://github.com/oceanhackweek/ohw21-proj-bioacoustics) (de OHW21)
+A continuación os presentamos nuestras propuestas para el Hackaton 2022. Puedes unirte a una de estas propuestas o sugerir una nueva [aquí](nuevoproyecto.md).
 
 
 
+## PROYECTO 1
+- Mentora: Denisse Fierro
+
+- Título: Graficando datos sobre el océano 
+
+- breve descripción: El objetivo de este proyecto es crear una base de datos con ejemplos mostrando cómo creargráficos con datos de diversas fuentes, incluyendo a datos de la NOAA, NASA, Modelos CMIP6 e ISIMIP, ARGOS, entre otros. Los ejemplos deberán mostrar el flujo de trabajo completo desde acceder a los datos, manipularlos de cualquier forma que sea necesaria y finalmente crear un gráfico. 
+
+- Lenguaje: R, Python o con una combinación de ambos lenguajes. 
+
+ - Horario: Disponible de 15:00-17:00Trabajo en grupo Proyectos B
+
+## PROYECTO 2
+- Mentora: Laura Gómez
+
+- Título: Preparándonos para los datos SWOT
+
+- breve descripción: El nuevo satélite SWOT fue lanzado al espacio recientemente, y proporcionará por primera vez datos altimétricos en 2D (https://swot.jpl.nasa.gov/ <https://swot.jpl.nasa.gov/>). * *El objetivo de este proyecto es preparar una serie de herramientas para visualizar y analizar los datos SWOT.  Para ello, ya que aún no disponemos de los datos reales, usaremos datos simulados con características similares a los datos que obtendremos en realidad.
+
+- Lenguaje: Python
+
+ - Horario: Disponible 11:00-13:00 Trabajo en grupo Proyectos A
+
+## PROYECTO 3
+- Mentores: Emilio Mayorga (Python) o Héctor Villalobos (R)
+
+- Desarrollo de herramientas para el Procesado de datos acústicos
+
+- breve descripción: Existen diversas librerías en R y Python para el procesado de datos acústicos (más desarrollado en Python). Este proyecto estaría enfocado en la incoporcoración de nuevas funciones a las librerías o en la combinación de varias de ellas.
+
+- Lenguaje:
+    - Python: echopy, echopype, echometrics…
+    - R: Echogram
+    
+- Horario: Disponible durante proyectos A y B
+11:00-13:00 Trabajo en grupo Proyectos A
+15:00-17:00Trabajo en grupo Proyectos B
