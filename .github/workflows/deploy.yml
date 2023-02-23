@@ -9,7 +9,7 @@ on:
     branches:
       - main
 
-# Set permissions of GITHUB_TOKEN to allow deployment to pages
+# Set permissions of GITHUB_TOKEN to allow deployment to gh-pages
 permissions:
   pages: write
   id-token: write
